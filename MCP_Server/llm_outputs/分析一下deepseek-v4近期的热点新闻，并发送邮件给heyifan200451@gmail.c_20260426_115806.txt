@@ -1,0 +1,10 @@
+🗣 用户提问：分析一下deepseek-v4近期的热点新闻，并发送邮件给heyifan200451@gmail.com
+
+🤖 模型回复：
+让我搜索更多近期关于DeepSeek-V4的技术新闻：
+
+<｜DSML｜function_calls>
+<｜DSML｜invoke name="search_google_news">
+<｜DSML｜parameter name="keyword" string="true">DeepSeek-V4 技术特性 发布</｜DSML｜parameter>
+</｜DSML｜invoke>
+</｜DSML｜function_calls>

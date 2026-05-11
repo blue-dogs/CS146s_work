@@ -1,0 +1,19 @@
+🗣 用户提问：分析一下deepseek-v4近期的热点新闻，并发送邮件给heyifan200451@gmail.com
+
+🤖 模型回复：
+
+
+
+让我获取这些新闻的详细内容以进行深入分析。
+
+<minimax:tool_call>
+<invoke name="fetch_content">
+<parameter name="url">https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/</parameter>
+</invoke>
+<invoke name="fetch_content">
+<parameter name="url">https://www.cnbc.com/2026/04/24/deepseek-v4-llm-preview-open-source-ai-competition-china.html</parameter>
+</invoke>
+<invoke name="fetch_content">
+<parameter name="url">https://developer.nvidia.com/blog/build-with-deepseek-v4-using-nvidia-blackwell-and-gpu-accelerated-endpoints/</parameter>
+</invoke>
+</minimax:tool_call>

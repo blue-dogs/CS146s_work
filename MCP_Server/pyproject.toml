@@ -1,0 +1,7 @@
+[project]
+name = "MCP_Server"
+version = "0.1.0"
+description = "这是bule-dogs的第一个客制化MCP_Server"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
